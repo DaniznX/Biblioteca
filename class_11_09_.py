@@ -1,0 +1,2 @@
+casa = "House"
+print(casa)

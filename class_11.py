@@ -1,2 +1,0 @@
-casa = "House"
-print(casa)

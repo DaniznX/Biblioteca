@@ -1,9 +1,9 @@
 class libro:
-    def __init__(self,Isbn, titulo, autor, Npagina, editorial, año):
+    def __init__(self,Isbn, Titulo, Autor, Npagina, Editorial, Año):
         self.Isbn = Isbn
-        self.titulo = titulo
-        self.autor = autor
+        self.Titulo = titulo
+        self.Autor = autor
         self.Npagina= Npagina
-        self.editorial = editorial
-        self.año = año
+        self.Editorial = editorial
+        self.Año = año
         

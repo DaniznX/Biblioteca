@@ -1,0 +1,1 @@
+Los detalles de las clases en python deben ir con minusculas y los nombres de esta deben ir con guion bajo, ademas los diagramas de clases con sus relaciones deben ir de manera de 1 a mas con sus respectivas tablas 
